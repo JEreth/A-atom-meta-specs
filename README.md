@@ -1,14 +1,12 @@
 <h1 align="center">
-  <img width="250" src="https://github.com/JEreth/A-atom-meta-specs/blob/master/figures/logo.svg?raw=true" alt="" />
+  <img width="150" src="./figures/logo.svg" alt="" />
 </h1>
 
-<h3 align="center">Specification for the concept of Analytical Atoms</h3>
+<h3 align="center">Specification for the concept of Analytical Atoms <img src="https://img.shields.io/badge/status-Work%20in%20progress-yellow.svg?style=flat-square" alt="Work in progress" /></h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/status-Work%20in%20progress-yellow.svg?style=flat-square" alt="Work in progress" />
-</p>
-
 **This document contains a specification for the concept of Analytical Atoms.**
+</p>
 
 ------
 Definition:
